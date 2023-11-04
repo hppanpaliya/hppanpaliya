@@ -107,7 +107,7 @@ My passion lies in creating sleek and efficient web applications, and my project
 
 ## Ongoing Projects
 
-- [RBCakeLab](https://github.com/hppanpaliya/rbcakelab) - A website for my sister's cake-baking portfolio.
+- [RBCakeLab](https://github.com/hppanpaliya/rbcakelab-next.js) - A website for my sister's cake-baking portfolio.
 - [React TrashMail](https://github.com/hppanpaliya/React-TrashMail) - A project encapsulating a Node.js based mail server with SMTP and web server features.
 
 ## Let's Connect 🤝
