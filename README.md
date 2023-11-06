@@ -26,75 +26,108 @@ My passion lies in creating sleek and efficient web applications, and my project
     <img width="33%" src="https://github-readme-streak-stats-two-fawn.vercel.app/?user=hppanpaliya&theme=highcontrast" />
   </a>
 </p>
-<h3>Things I code with</h3>
-<p>
+
+
+<h3>Tech Stack and Tools 💫<h3>
+
+| Category | Skills |
+| :------- | :----- |
+| ![][h-programming] | ![][lang-javascript] ![][lang-typescript] ![][lang-php] ![][lang-python] |
+| ![][h-frontend] | ![][frontend-react] ![][frontend-vuejs] ![][frontend-nextjs] ![][frontend-redux] ![][frontend-html5] ![][frontend-css] ![][frontend-sass] ![][frontend-materialui] ![][frontend-framermotion] |
+| ![][h-backend] | ![][backend-nodejs] ![][backend-expressjs] ![][backend-apollographql] |
+| ![][h-database] | ![][db-mongodb] ![][db-postgresql] ![][db-redis] ![][db-firebase] |
+| ![][h-cloud] | ![][cloud-gcp] ![][cloud-aws] ![][cloud-azure] ![][cloud-digitalocean] |
+| ![][h-cicd] | ![][cicd-githubactions] ![][cicd-docker] ![][cicd-vercel] |
+| ![][h-package] | ![][pkg-npm] ![][pkg-yarn] |
+| ![][h-tools] | ![][tools-androidstudio] ![][tools-figma] ![][tools-postman] ![][tools-git] |
+| ![][h-projectmgmt] | ![][projmgmt-jira] ![][projmgmt-trello] |
+| ![][h-browsers] | ![][browser-chrome] ![][browser-safari] ![][browser-firefox] |
+| ![][h-servers] | ![][server-apache] ![][server-nginx] |
+| ![][h-other] | ![][other-raspberrypi] ![][other-linux] ![][other-macos] |
+
+<!-- Titles -->
+
+[h-programming]: https://img.shields.io/badge/-Programming-000000?style=flat-square "Programming"
+[h-frontend]: https://img.shields.io/badge/-Frontend_Development-05122A?style=flat-square "Frontend Development"
+[h-backend]: https://img.shields.io/badge/-Backend_Development-05122A?style=flat-square "Backend Development"
+[h-database]: https://img.shields.io/badge/-Database-000000?style=flat-square "Database"
+[h-cloud]: https://img.shields.io/badge/-Cloud_Services-05122A?style=flat-square "Cloud Services"
+[h-cicd]: https://img.shields.io/badge/-CI%2FCD-000000?style=flat-square "CI/CD"
+[h-package]: https://img.shields.io/badge/-Package_Managers-05122A?style=flat-square "Package Managers"
+[h-tools]: https://img.shields.io/badge/-Tools_and_Software-000000?style=flat-square "Tools and Software"
+[h-projectmgmt]: https://img.shields.io/badge/-Project_Management-05122A?style=flat-square "Project Management"
+[h-browsers]: https://img.shields.io/badge/-Browsers-000000?style=flat-square "Browsers"
+[h-servers]: https://img.shields.io/badge/-Servers-05122A?style=flat-square "Servers"
+[h-other]: https://img.shields.io/badge/-Other-000000?style=flat-square "Other"
+
+
 <!-- Programming Languages -->
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+[lang-javascript]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black "JavaScript"
+[lang-typescript]: https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white "TypeScript"
+[lang-php]: https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white "PHP"
+[lang-python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white "Python"
 
 <!-- Frontend Technologies -->
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="VueJS" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-<img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
-<img alt="framer-motion" src="https://img.shields.io/badge/-framer--motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+[frontend-react]: https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white "React"
+[frontend-vuejs]: https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white "Vue.js"
+[frontend-nextjs]: https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=white "Next.js"
+[frontend-redux]: https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white "Redux"
+[frontend-html5]: https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white "HTML5"
+[frontend-css]: https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white "CSS"
+[frontend-sass]: https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white "Sass"
+[frontend-materialui]: https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white "Material UI"
+[frontend-framermotion]: https://img.shields.io/badge/-framer--motion-0055FF?style=flat-square&logo=framer&logoColor=white "Framer Motion"
 
 <!-- Backend Technologies -->
-<img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+[backend-nodejs]: https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white "Node.js"
+[backend-expressjs]: https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white "Express.js"
+[backend-apollographql]: https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=white "Apollo GraphQL"
 
 <!-- Databases -->
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+[db-mongodb]: https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white "MongoDB"
+[db-postgresql]: https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white "PostgreSQL"
+[db-redis]: https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white "Redis"
+[db-firebase]: https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black "Firebase"
 
 <!-- Cloud Technologies -->
-<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-<img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon Web Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+[cloud-gcp]: https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white "Google Cloud Platform"
+[cloud-aws]: https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white "Amazon Web Services"
+[cloud-azure]: https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white "Microsoft Azure"
+[cloud-digitalocean]: https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white "DigitalOcean"
 
 <!-- Deployment & CI/CD -->
-<img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+[cicd-githubactions]: https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white "GitHub Actions"
+[cicd-docker]: https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white "Docker"
+[cicd-vercel]: https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white "Vercel"
 
 <!-- Package Managers -->
-<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
+[pkg-npm]: https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white "npm"
+[pkg-yarn]: https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white "yarn"
 
 <!-- Development Tools -->
-<img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+[tools-androidstudio]: https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white "Android Studio"
+[tools-figma]: https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white "Figma"
+[tools-postman]: https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white "Postman"
+[tools-git]: https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white "Git"
 
 <!-- Project Management -->
-<img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
+[projmgmt-jira]: https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white "JIRA"
+[projmgmt-trello]: https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white "Trello"
 
 <!-- Browsers -->
-<img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-<img alt="Safari" src="https://img.shields.io/badge/-Safari-0000FF?style=flat-square&logo=safari&logoColor=white" />
-<img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" />
+[browser-chrome]: https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white "Chrome"
+[browser-safari]: https://img.shields.io/badge/-Safari-000000?style=flat-square&logo=safari&logoColor=white "Safari"
+[browser-firefox]: https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox-browser&logoColor=white "Firefox"
 
 <!-- Servers -->
-<img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
-<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+[server-apache]: https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white "Apache"
+[server-nginx]: https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white "nginx"
 
 <!-- Hardware/Other -->
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white" />
-</p>
+[other-raspberrypi]: https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white "Raspberry Pi"
+[other-linux]: https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black "Linux"
+[other-macos]: https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white "macOS"
+
 
 ## Featured Repositories
 
