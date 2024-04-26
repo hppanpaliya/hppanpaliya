@@ -142,7 +142,7 @@ My passion lies in creating sleek and efficient web applications, and my project
 
 - [RBCakeLab](https://github.com/hppanpaliya/rbcakelab-next.js) - A website for my sister's cake-baking portfolio.
 - [React TrashMail](https://github.com/hppanpaliya/React-TrashMail) - A project encapsulating a Node.js based mail server with SMTP and web server features.
-- [Walmart Invoice Exporter](https://github.com/hppanpaliya/Walmart-Invoice-Exporter)
+- [Walmart Invoice Exporter](https://github.com/hppanpaliya/Walmart-Invoice-Exporter) - A Chrome Extention to export Walmart invoices in Excel format.
 
 ## Let's Connect 🤝
 
