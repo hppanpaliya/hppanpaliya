@@ -132,16 +132,17 @@ My passion lies in creating sleek and efficient web applications, and my project
 ## Featured Repositories
 
 - [React TrashMail](https://github.com/hppanpaliya/React-TrashMail)
-- [Ocean Odyssey PC Game](https://github.com/hppanpaliya/Ocean-Odyssey-PC-Game)
-- [Rock Buddy](https://github.com/hppanpaliya/rock-buddy)
-- [Walmart Invoice Exporter](https://github.com/hppanpaliya/Walmart-Invoice-Exporter)
 - [MindfulMe: Your Companion for Mental Well-being](https://github.com/hppanpaliya/MindfulMe)
+- [Walmart Invoice Exporter](https://github.com/hppanpaliya/Walmart-Invoice-Exporter)
+- [Rock Buddy](https://github.com/hppanpaliya/rock-buddy)
+- [Ocean Odyssey PC Game](https://github.com/hppanpaliya/Ocean-Odyssey-PC-Game)
 - [PDF to Static HTML FireStore](https://github.com/hppanpaliya/PDF-to-Static-HTML-FireStore)
 
 ## Ongoing Projects
 
 - [RBCakeLab](https://github.com/hppanpaliya/rbcakelab-next.js) - A website for my sister's cake-baking portfolio.
 - [React TrashMail](https://github.com/hppanpaliya/React-TrashMail) - A project encapsulating a Node.js based mail server with SMTP and web server features.
+- [Walmart Invoice Exporter](https://github.com/hppanpaliya/Walmart-Invoice-Exporter)
 
 ## Let's Connect 🤝
 
