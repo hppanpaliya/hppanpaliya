@@ -135,7 +135,7 @@ My passion lies in creating sleek and efficient web applications, and my project
 - [Ocean Odyssey PC Game](https://github.com/hppanpaliya/Ocean-Odyssey-PC-Game)
 - [Rock Buddy](https://github.com/hppanpaliya/rock-buddy)
 - [Walmart Invoice Exporter](https://github.com/hppanpaliya/Walmart-Invoice-Exporter)
-- [Mental Health Support Web App](https://github.com/hppanpaliya/CS-545-Mental-Health-Support)
+- [MindfulMe: Your Companion for Mental Well-being](https://github.com/hppanpaliya/MindfulMe)
 - [PDF to Static HTML FireStore](https://github.com/hppanpaliya/PDF-to-Static-HTML-FireStore)
 
 ## Ongoing Projects
