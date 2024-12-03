@@ -1,19 +1,22 @@
 # Hello, I'm Harshal Panpaliya! 👋
 
 <p align="center">
-  MS CS Student at Stevens | Full-Stack Developer | Exploring the realms of Web Development and Cloud Computing
+  Full-Stack Developer | MERN Stack Specialist | Building Scalable Web Apps and Cloud Solutions
 </p>
 
 ---
 
-I am currently a Master’s student in Computer Science at [Stevens Institute of Technology](https://www.stevens.edu/) in New Jersey, graduating in December 2023. My educational journey has honed my skills in Full Stack Development, primarily working with JavaScript, Node.js, React, and various cloud platforms like AWS, GCP, and Azure.
+I am a passionate Software Engineer specializing in Full Stack Development and cloud solutions. My expertise lies in modern JavaScript frameworks, including React, Next.js, and Node.js, alongside experience with cloud platforms like AWS, GCP, and Azure.  
 
-My passion lies in creating sleek and efficient web applications, and my projects reflect my coding and creative prowess. I love exploring new tech stack and building projects that solve real-world problems.
+I hold a Master of Science in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/), which I completed in January 2024. My journey has been driven by a love for crafting user-centric, efficient, and secure web applications.  
 
-- 📍 Located in Hoboken, NJ
-- 🌐 Check out my [portfolio](https://harshal.tech)
-- 📫 Reach me at hppanpaliya@gmail.com
-- 💼 Open to job opportunities and collaborations
+Currently, I'm focusing on developing scalable solutions with the MERN stack and exploring new technologies to solve real-world challenges.
+
+- 📍 Based in Hoboken, NJ  
+- 🌐 Explore my [portfolio](https://harshal.tech)  
+- 📫 Contact me at hppanpaliya@gmail.com  
+- 💼 Open to new opportunities and collaborations  
+
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
